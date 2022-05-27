@@ -8,7 +8,7 @@ export interface ChartProps {
   height?: number;
   /** Chart width */
   width?: number;
-  /** @internal */
+  /** Fixed? */
   children?: any;
   /** Chart rotation */
   rotated?: boolean;
